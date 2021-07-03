@@ -1,0 +1,130 @@
+body {
+  font-family: 'Karla', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.navbar ul li, .dropdown-menu li {
+  font-size: 1.1rem;
+  font-weight: 800;
+
+}
+
+.navbar ul li a {
+  color: #000000 !important;
+}
+
+.border-bottom-color {
+  border-bottom: 8px solid #0967b3;
+}
+
+.first-grid-img {
+  background-image: url('/assets/Screen-Shot-2019-09-19-at-2.36.42-PM.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* height: 600px; */
+}
+
+.scnd-grid-img {
+  background-image: url('/assets/jesuscoin.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* height: 400px; */
+}
+
+.third-grid-img {
+  background-image: url('/assets/slmfst.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* height: 400px; */
+}
+
+.frth-grid-img {
+  background-image: url('/assets/SMG-Guy.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.fifth-grid-img {
+  background-image: url('/assets/at1-1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.sixth-grid-img {
+  background-image: url('/assets/the-olympians-1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.eight-grid-img {
+  background-image: url('/assets/Autoblow-2-1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.animate-credit, .talent-heading {
+  margin: 7rem 0;
+  max-width: 1000px;
+}
+
+.animate-credit h1 {
+  color: #e5392b;
+  font-weight: 700;
+}
+
+p {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.client-trusted h2, .talent-heading h1, .talent-heading h2 {
+  color: #e5392b;
+  font-weight: 800;
+}
+
+.client-trusted img {
+  width: 100%;
+  max-width: 140px;
+}
+
+.white-label {
+  margin: 7rem 0 0 0;
+  background: linear-gradient(#000000a9, #0000007a), url('/assets/Animation-Outsourced-Website-2019-Home-Page_02.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top right;
+  background-position-y: 300px;
+  min-height: 700px;
+  width: 100%;
+}
+
+.animated-campaigns {
+  background: linear-gradient(#000000a9, #0000007a), url('/assets/Animation-Outsourced-Website-2019-Home-Page_03.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top left;
+  background-position-y: 300px;
+  min-height: 700px;
+  width: 100%;
+}
+
+.offshore-staffing {
+  background: linear-gradient(#000000a9, #0000007a), url('/assets/Offshore-1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center right;
+  min-height: 700px;
+}
+
+
