@@ -101,10 +101,8 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: top right;
-  background-position-y: 300px;
+  background-position: center right;
   min-height: 700px;
-  width: 100%;
 }
 
 .animated-campaigns {
@@ -112,10 +110,8 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: top left;
-  background-position-y: 300px;
+  background-position: center left;
   min-height: 700px;
-  width: 100%;
 }
 
 .offshore-staffing {
