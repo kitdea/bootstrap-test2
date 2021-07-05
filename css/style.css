@@ -138,11 +138,17 @@ p {
   font-weight: 800;
 }
 
-.fas .fa-quote-left {
-  color: #fb591d;
+.fas, .fa-quote-left {
+  color: #0967b3;
+  font-size: 3rem;
 }
 
 .card {
   width: 100%;
-  max-width: 400px;
+}
+
+@media(min-width: 778px) {
+  .card {
+    max-width: 320px;
+  }
 }
