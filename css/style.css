@@ -85,7 +85,7 @@ p {
   font-weight: 400;
 }
 
-.client-trusted h2, .talent-heading h2 {
+.client-trusted h2, .testimonials-card h2 {
   color: #e5392b;
   font-weight: 800;
 }
@@ -140,4 +140,9 @@ p {
 
 .fas .fa-quote-left {
   color: #fb591d;
+}
+
+.card {
+  width: 100%;
+  max-width: 400px;
 }

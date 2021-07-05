@@ -1,13 +1,10 @@
-const password = 'p@ssword';
-
-if(password.length >= 12){
-  console.log('that password is mighty strong');
-} else if(password.length >= 8) {
-  console.log('that password is enough');
-} else {
-  console.log('password is not long enough');
-}
+$( document ).ready(function() {
+    
 
 
+  $('.container-lg').append('<div class="card">A new box</div>');
+  
+  
 
 
+});
