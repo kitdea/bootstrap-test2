@@ -75,7 +75,7 @@ body {
   max-width: 1000px;
 }
 
-.animate-credit h1 {
+.animate-credit h1, .talent-heading h1 {
   color: #e5392b;
   font-weight: 700;
 }
@@ -85,7 +85,7 @@ p {
   font-weight: 400;
 }
 
-.client-trusted h2, .talent-heading h1, .talent-heading h2 {
+.client-trusted h2, .talent-heading h2 {
   color: #e5392b;
   font-weight: 800;
 }
@@ -123,4 +123,21 @@ p {
   min-height: 700px;
 }
 
+.card-text {
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: 100;
+}
 
+.card-text__subject, .card-text__name {
+  font-size: 0.8rem;
+}
+
+.name-text {
+  color: #fb591d;
+  font-weight: 800;
+}
+
+.fas .fa-quote-left {
+  color: #fb591d;
+}
