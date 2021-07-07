@@ -18,7 +18,7 @@ body {
   border-bottom: 8px solid #0967b3;
 }
 
-.first-grid-img {
+.grid-img-01 {
   background-image: url('/assets/Screen-Shot-2019-09-19-at-2.36.42-PM.jpg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -26,7 +26,7 @@ body {
   /* height: 600px; */
 }
 
-.scnd-grid-img {
+.grid-img-02 {
   background-image: url('/assets/jesuscoin.jpg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -34,7 +34,7 @@ body {
   /* height: 400px; */
 }
 
-.third-grid-img {
+.grid-img-03 {
   background-image: url('/assets/slmfst.png');
   background-repeat: no-repeat;
   background-size: cover;
@@ -42,28 +42,28 @@ body {
   /* height: 400px; */
 }
 
-.frth-grid-img {
+.grid-img-04 {
   background-image: url('/assets/SMG-Guy.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-.fifth-grid-img {
+.grid-img-05 {
   background-image: url('/assets/at1-1.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-.sixth-grid-img {
+.grid-img-06 {
   background-image: url('/assets/the-olympians-1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-.eight-grid-img {
+.grid-img-07 {
   background-image: url('/assets/Autoblow-2-1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
