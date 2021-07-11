@@ -183,5 +183,14 @@ p {
 
 .as-footer__title {
   color: #e5392b;
-  font-weight: 800;
+  font-weight: 700;
+}
+
+.footer-text {
+  font-size: 1rem;
+}
+
+.fab {
+  color: #e5392b;
+  margin: 0 2px;
 }
