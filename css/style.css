@@ -26,6 +26,12 @@ body {
   justify-items: stretch;
 }
 
+@media(min-width: 768px){
+  .grid-img-container {
+    grid-auto-flow: column;
+  }
+}
+
 .grid-img-01 {
   background-image: url('/assets/Screen-Shot-2019-09-19-at-2.36.42-PM.jpg');
   background-repeat: no-repeat;
@@ -168,4 +174,14 @@ p {
   .card {
     max-width: 360px;
   }
+}
+
+.text-gray-100 {
+  color: #919191;
+  font-weight: 300;
+}
+
+.as-footer__title {
+  color: #e5392b;
+  font-weight: 800;
 }
